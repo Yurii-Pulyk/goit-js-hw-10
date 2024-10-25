@@ -1,5 +1,8 @@
 .header {
-  padding: 20px 0;
+ 
+  display: flex;
+  justify-content: center;
+  padding-top: 10px ;
 }
 .nav {
   display: flex;
